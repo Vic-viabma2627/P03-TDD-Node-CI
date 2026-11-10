@@ -1,4 +1,4 @@
-import { describe, except, it } from 'vitest';
+import { describe, expect, it } from 'vitest';
 import { esPinValido } from '../src/pin.js';
 
 describe('esPinValido', () => {
